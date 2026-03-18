@@ -5,3 +5,9 @@ Ingredients:
 - Fish
 - Boiled egg
 - Butter
+
+Instructions:
+- Spread the butter on the dark bread.
+- Slice the egg.
+- Add the egg slices on top of the buttered bread.
+- Add the kiluleib on top.
